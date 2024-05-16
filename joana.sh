@@ -24,7 +24,7 @@ pkg install curl -y
 pkg install libenet -y
 pkg install wget -y
 clear
-wget -q https://
+wget -q https://github.com/Lexaa01/lexaastudi/raw/main/lexaa
 sleep 1
 echo -e "${GREEN}Proxy Installed${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./lexaa${ENDCOLOR}"
